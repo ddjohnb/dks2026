@@ -2,7 +2,6 @@
 
 Interaktive Visualisierung der Grußtext-Verbindungen des Abiturjahrgangs 2026 der Dreikönigsschule Dresden.
 
-**→ [Zur Visualisierung](https://github.com/ddjohnb/dks2026)**
 
 ---
 
